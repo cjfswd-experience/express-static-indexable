@@ -31,6 +31,6 @@ serve-index: Middleware for serving a directory listing.
 morgan: Middleware for logging HTTP requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/cjfswd-experience/node-express-static-indexable/edit/main/LICENSE) file for details.
    
 Feel free to modify this README to better suit your project's specific details and style. Remember to replace placeholders with actual values and filenames as needed.
